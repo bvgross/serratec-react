@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  gap: .4rem;
+}
+
+.campo {
+  display: flex;
+}
+
+.label {
+  margin-top: .3rem;
+  display: flex;
+  gap: .3rem;
+  align-items: flex-start;
+  color: lightsteelblue;
+  height: 60px
+}

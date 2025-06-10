@@ -1,0 +1,12 @@
+.frase {
+  color: #eee;
+}
+
+.container {
+  width: 60%;
+  background-color: #333;
+  padding: 1rem;
+  border-radius: 20px;
+  box-shadow: 5px 5px 0 #111;
+
+}

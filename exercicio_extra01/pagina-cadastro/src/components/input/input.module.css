@@ -1,0 +1,27 @@
+.inputStyle {
+
+  padding: 0.2rem;
+  font-size: 1.1rem;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  border-bottom: thin solid steelblue;
+  color: #888;
+
+}
+
+.inputStyle:focus {
+  border: none;
+  background-color: #20384D;
+  color: #eee;
+  outline: none;
+}
+
+.erroStyle {
+  color: red;
+  font-size: .7rem;
+}
+
+container {
+  display: flex;
+}
